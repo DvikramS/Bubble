@@ -5,7 +5,7 @@ public class Bubble {
 
 
 
-	public static int x[]={1,8,4,6,0,3,5,2,7,9,11,12}; 
+	public static int x[]={1,8,4,6,0,3,5,2,7,9,11,12,13}; 
 	public static int y[]=new int[x.length];
 	public static void main(String[] args) {
 
